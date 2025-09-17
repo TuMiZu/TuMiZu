@@ -81,6 +81,7 @@ Trailer
   <img src="assets\YourType\YourType_3.png" width="200" alt="Screenshot 1">
   <img src="assets\YourType\YourType_1.png" width="200" alt="Screenshot 2">
   <img src="assets\YourType\YourType_4.png" width="200" alt="Screenshot 3">
+  <img src="assets\YourType\YourType_6.png" width="600" alt="Screenshot 4">
 </div>
 
 **Outcome:**
