@@ -42,12 +42,15 @@
 **Environments:** Godot, GDScript  
 **Goal:** Commercial Google Play Store release  
 
-Trailer
+Gameplay
 <div align="left">
-  <a href="https://www.youtube.com/watch?v=0VWWgYZeu1w">
-    <img src="https://img.youtube.com/vi/0VWWgYZeu1w/0.jpg" width="400" alt="GoDown Trailer">
-  </a>
+  <img src="assets\GoDown\GoDown_Gameplay.gif" width="200" alt="TankMobile Gameplay Video - Click to Play">
+  <br>
 </div>
+
+### Trailer
+**[Watch Trailer here](https://www.youtube.com/watch?v=0VWWgYZeu1w)**
+
 
 ### Screenshots
 <div style="display: flex; justify-content: left; gap: 40px;">
