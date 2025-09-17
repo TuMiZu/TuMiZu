@@ -42,8 +42,12 @@
 **Environments:** Godot, GDScript  
 **Goal:** Commercial Google Play Store release  
 
-### Trailer
-[![GoDown Trailer](https://img.youtube.com/vi/0VWWgYZeu1w/0.jpg)](https://www.youtube.com/watch?v=0VWWgYZeu1w)
+Trailer
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=0VWWgYZeu1w">
+    <img src="https://img.youtube.com/vi/0VWWgYZeu1w/0.jpg" width="300" alt="GoDown Trailer">
+  </a>
+</div>
 
 ### Screenshots
 <div align="center">
