@@ -2,7 +2,7 @@
 
 ---
 
-## <img src="assets/skyscraper-sprint-icon.png" width="32" height="32" alt="Skyscraper Sprint Icon"> Skyscraper Sprint
+## <img src="assets\Skyscraper Sprint\SkyscraperSprint_Icon.png" width="32" height="32" alt="Skyscraper Sprint Icon"> Skyscraper Sprint
 
 **Project Type:** Mobile Game  
 **Team Size:** 2  
@@ -15,9 +15,8 @@
 
 ### Screenshots
 <div align="center">
-  <img src="assets/skyscraper-sprint-1.png" width="200" alt="Screenshot 1">
-  <img src="assets/skyscraper-sprint-2.png" width="200" alt="Screenshot 2">
-  <img src="assets/skyscraper-sprint-3.png" width="200" alt="Screenshot 3">
+  <img src="assets\Skyscraper Sprint\SkyscraperSprint_1.png" width="200" alt="Screenshot 1">
+  <img src="assets\Skyscraper Sprint\SkyscraperSprint2.png" width="200" alt="Screenshot 2">
 </div>
 
 **Outcome:**
@@ -26,7 +25,7 @@
 
 ---
 
-## <img src="assets/godown-icon.png" width="32" height="32" alt="GoDown Icon"> GoDown
+## <img src="assets\GoDown\GoDown_Icon.png" width="32" height="32" alt="GoDown Icon"> GoDown
 
 **Project Type:** Mobile Game  
 **Team Size:** Solo  
@@ -48,9 +47,9 @@
 
 ### Screenshots
 <div align="center">
-  <img src="assets/godown-1.png" width="200" alt="Screenshot 1">
-  <img src="assets/godown-2.png" width="200" alt="Screenshot 2">
-  <img src="assets/godown-3.png" width="200" alt="Screenshot 3">
+  <img src="assets\GoDown\GoDown_1.png" width="200" alt="Screenshot 1">
+  <img src="assets\GoDown\GoDown_5.png" width="200" alt="Screenshot 2">
+  <img src="assets\GoDown\GoDown_6.png" width="200" alt="Screenshot 3">
 </div>
 
 **Outcome:**
@@ -59,7 +58,7 @@
 
 ---
 
-## <img src="assets/yourtype-icon.png" width="32" height="32" alt="YourType Icon"> YourType
+## <img src="assets\YourType\YourType_Icon.png" width="32" height="32" alt="YourType Icon"> YourType
 
 **Project Type:** Website  
 **Team Size:** 2  
@@ -75,9 +74,9 @@
 
 ### Screenshots
 <div align="center">
-  <img src="assets/yourtype-1.png" width="200" alt="Screenshot 1">
-  <img src="assets/yourtype-2.png" width="200" alt="Screenshot 2">
-  <img src="assets/yourtype-3.png" width="200" alt="Screenshot 3">
+  <img src="assets\YourType\YourType_3.png" width="200" alt="Screenshot 1">
+  <img src="assets\YourType\YourType_1.png" width="200" alt="Screenshot 2">
+  <img src="assets\YourType\YourType_4.png" width="200" alt="Screenshot 3">
 </div>
 
 **Outcome:**
@@ -86,7 +85,7 @@
 
 ---
 
-## <img src="assets/tankmobile-icon.png" width="32" height="32" alt="TankMobile Icon"> TankMobile
+## <img src="assets\TankMobile\TankMobile_Icon.png" width="32" height="32" alt="TankMobile Icon"> TankMobile
 
 **Project Type:** Mobile Game  
 **Team Size:** 2  
@@ -103,24 +102,18 @@
 ### Gameplay Video
 <div align="center">
   <video width="400" controls>
-    <source src="assets/tankmobile-gameplay.mp4" type="video/mp4">
+    <source src="assets\TankMobile\TankMobile_Gameplay.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
 </div>
 
-### Screenshots
-<div align="center">
-  <img src="assets/tankmobile-1.png" width="200" alt="Screenshot 1">
-  <img src="assets/tankmobile-2.png" width="200" alt="Screenshot 2">
-  <img src="assets/tankmobile-3.png" width="200" alt="Screenshot 3">
-</div>
 
 **Outcome:**
 - Development suspended because of time limitations
 
 ---
 
-## <img src="assets/puzzlemine-icon.png" width="32" height="32" alt="PuzzleMine Icon"> PuzzleMine
+## <img src="assets\PuzzleMine\PuzzleMine_Icon.png" width="32" height="32" alt="PuzzleMine Icon"> PuzzleMine
 
 **Project Type:** Mobile Game  
 **Team Size:** Solo  
@@ -132,9 +125,9 @@
 
 ### Screenshots
 <div align="center">
-  <img src="assets/puzzlemine-1.png" width="200" alt="Screenshot 1">
-  <img src="assets/puzzlemine-2.png" width="200" alt="Screenshot 2">
-  <img src="assets/puzzlemine-3.png" width="200" alt="Screenshot 3">
+  <img src="assets\PuzzleMine\PuzzleMine_1.png" width="200" alt="Screenshot 1">
+  <img src="assets\PuzzleMine\PuzzleMine_2.png" width="200" alt="Screenshot 2">
+ 
 </div>
 
 **Status:** In Development
@@ -153,16 +146,3 @@
 
 ---
 
-## Technologies Used
-
-![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
-![Godot](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/python-3670A8?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-
----
-
-*Contact me for collaborations or questions about any of these projects!*
