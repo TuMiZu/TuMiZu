@@ -105,8 +105,8 @@ Trailer
 **Goal:** Commercial release with microtransactions and ads  
 
 <div align="left">
-  <a href="assets\TankMobile\TankMobile_Gameplay.gif">
-    <img src="assets\TankMobile\TankMobile_Gameplay_Thumbnail.png" width="400" alt="TankMobile Gameplay Video">
+  <a href="assets/TankMobile/TankMobile_Gameplay.mp4">
+    <img src="assets/tankmobile-preview.gif" width="400" alt="TankMobile Gameplay Video - Click to Play">
   </a>
   <br>
   <em>Click the image above to view gameplay video</em>
