@@ -104,15 +104,13 @@ Trailer
 **Environments:** Unity  
 **Goal:** Commercial release with microtransactions and ads  
 
-### Gameplay Video
 <div align="left">
-  <a href="assets/TankMobile/TankMobile_Gameplay.mp4">
-    <img src="assets\TankMobile\TankMobile_Gameplay_Thumbnail.png" width="400" alt="TankMobile Gameplay Video - Click to Play">
+  <a href="assets\TankMobile\TankMobile_Gameplay.gif">
+    <img src="assets/tankmobile-video-thumbnail.png" width="400" alt="TankMobile Gameplay Video">
   </a>
   <br>
   <em>Click the image above to view gameplay video</em>
 </div>
-
 
 **Outcome:**
 - Development suspended because of time limitations
