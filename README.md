@@ -106,7 +106,7 @@ Trailer
 
 <div align="left">
   <a href="assets\TankMobile\TankMobile_Gameplay.gif">
-    <img src="assets/tankmobile-video-thumbnail.png" width="400" alt="TankMobile Gameplay Video">
+    <img src="assets\TankMobile\TankMobile_Gameplay_Thumbnail.png" width="400" alt="TankMobile Gameplay Video">
   </a>
   <br>
   <em>Click the image above to view gameplay video</em>
