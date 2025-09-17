@@ -141,7 +141,7 @@ Trailer
 
 | Project | Type | Duration | Status | Team Size |
 |---------|------|----------|--------|-----------|
-| Skyscraper Sprint | Mobile Game | 11 days | Released (Discontinued) | 2 |
+| SkyscraperSprint | Mobile Game | 11 days | Released (Discontinued) | 2 |
 | GoDown | Mobile Game | 9 months | Released (Discontinued) | Solo |
 | YourType | Website | 6 months | Live | 2 |
 | TankMobile | Mobile Game | 4 months | Suspended | 2 |
