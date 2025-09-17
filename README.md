@@ -106,10 +106,11 @@ Trailer
 
 ### Gameplay Video
 <div align="left">
-  <video width="400" controls>
-    <source src="assets\TankMobile\TankMobile_Gameplay.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
+  <a href="assets/TankMobile/TankMobile_Gameplay.mp4">
+    <img src="assets\TankMobile\TankMobile_Gameplay_Thumbnail.png" width="400" alt="TankMobile Gameplay Video - Click to Play">
+  </a>
+  <br>
+  <em>Click the image above to view gameplay video</em>
 </div>
 
 
