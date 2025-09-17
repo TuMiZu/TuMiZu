@@ -14,9 +14,9 @@
 **Goal:** Learning Unity, Releasing a Game on the Playstore  
 
 ### Screenshots
-<div align="center">
-  <img src="assets\Skyscraper Sprint\SkyscraperSprint_1.png" width="200" alt="Screenshot 1">
-  <img src="assets\Skyscraper Sprint\SkyscraperSprint2.png" width="200" alt="Screenshot 2">
+<div style="display: flex; justify-content: left; gap: 40px;">
+  <img src="assets\Skyscraper Sprint\SkyscraperSprint_1.png" width="400" alt="Screenshot 1">
+  <img src="assets\Skyscraper Sprint\SkyscraperSprint2.png" width="400" alt="Screenshot 2">
 </div>
 
 **Outcome:**
@@ -43,15 +43,15 @@
 **Goal:** Commercial Google Play Store release  
 
 Trailer
-<div align="center">
+<div align="left">
   <a href="https://www.youtube.com/watch?v=0VWWgYZeu1w">
-    <img src="https://img.youtube.com/vi/0VWWgYZeu1w/0.jpg" width="300" alt="GoDown Trailer">
+    <img src="https://img.youtube.com/vi/0VWWgYZeu1w/0.jpg" width="400" alt="GoDown Trailer">
   </a>
 </div>
 
 ### Screenshots
-<div align="center">
-  <img src="assets\GoDown\GoDown_1.png" width="200" alt="Screenshot 1">
+<div style="display: flex; justify-content: left; gap: 40px;">
+  <img src="assets\GoDown\GoDown_1.png" width="600" alt="Screenshot 1">
   <img src="assets\GoDown\GoDown_5.png" width="200" alt="Screenshot 2">
   <img src="assets\GoDown\GoDown_6.png" width="200" alt="Screenshot 3">
 </div>
@@ -77,7 +77,7 @@ Trailer
 **[Visit YourType.io](https://yourtype.io/)**
 
 ### Screenshots
-<div align="center">
+<div style="display: flex; justify-content: left; gap: 40px;">
   <img src="assets\YourType\YourType_3.png" width="200" alt="Screenshot 1">
   <img src="assets\YourType\YourType_1.png" width="200" alt="Screenshot 2">
   <img src="assets\YourType\YourType_4.png" width="200" alt="Screenshot 3">
@@ -104,7 +104,7 @@ Trailer
 **Goal:** Commercial release with microtransactions and ads  
 
 ### Gameplay Video
-<div align="center">
+<div align="left">
   <video width="400" controls>
     <source src="assets\TankMobile\TankMobile_Gameplay.mp4" type="video/mp4">
     Your browser does not support the video tag.
@@ -128,10 +128,9 @@ Trailer
 **Goal:** Commercial release on the Google Play Store  
 
 ### Screenshots
-<div align="center">
+<div style="display: flex; justify-content: left; gap: 40px;">
   <img src="assets\PuzzleMine\PuzzleMine_1.png" width="200" alt="Screenshot 1">
   <img src="assets\PuzzleMine\PuzzleMine_2.png" width="200" alt="Screenshot 2">
- 
 </div>
 
 **Status:** In Development
