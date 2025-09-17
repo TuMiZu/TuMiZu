@@ -107,7 +107,7 @@ Trailer
 ### Gameplay Video
 <div align="left">
   <video width="400" controls>
-    <source src="assets\TankMobile\TankMobile_Gameplay.mp4" type="video/mp4">
+    <source src="assets/TankMobile/TankMobile_Gameplay.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
 </div>
