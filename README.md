@@ -61,7 +61,7 @@ Gameplay
 
 **Outcome:**
 - First released on Jun 11, 2023
-- Later taken down due to lack of maintenance and unsatisfactory outcome
+- Later taken down due to lack of maintenance
 
 ---
 
@@ -111,9 +111,9 @@ Gameplay
   <a href="assets/TankMobile/TankMobile_Gameplay.mp4">
     <img src="assets\TankMobile\TankMobile_Gameplay.gif" width="400" alt="TankMobile Gameplay Video - Click to Play">
   </a>
-  <br>
-  <em>Click the image to view gameplay video</em>
 </div>
+
+<br>
 
 **Outcome:**
 - Development suspended because of time limitations
