@@ -53,10 +53,17 @@ Gameplay
 
 
 ### Screenshots
-<div style="display: flex; justify-content: left; gap: 40px;">
-  <img src="assets\GoDown\GoDown_1.png" width="600" alt="Screenshot 1">
-  <img src="assets\GoDown\GoDown_5.png" width="200" alt="Screenshot 2">
-  <img src="assets\GoDown\GoDown_6.png" width="200" alt="Screenshot 3">
+<div style="display: flex; justify-content: left; gap: 20px; flex-direction: column;">
+
+  <div style="display: flex; justify-content: left; gap: 40px;">
+    <img src="assets\GoDown\GoDown_1.png" width="600" alt="Screenshot 1">
+  </div>
+
+  <div style="display: flex; justify-content: left; gap: 40px;">
+    <img src="assets\GoDown\GoDown_5.png" width="200" alt="Screenshot 2">
+    <img src="assets\GoDown\GoDown_6.png" width="200" alt="Screenshot 3">
+  </div>
+
 </div>
 
 **Outcome:**
